@@ -1,5 +1,7 @@
 <div align="center">
- <h1>Hi, I'm Gabriel Sanchez</h1>
+ <h1>Oi, meu nome é Gabriel </h1>
+ <h1>Hi, I'm Gabriel</h1>
+ <p>Desenvolvedor Frontend e Fullstack</p>
  <p>Frontend and Fullstack developer </p>
   <a href="https://github.com/gabrielsanzs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsanzs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
