@@ -9,7 +9,7 @@
 </div>
  
  ##
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,java,postgres,jquery,firebase,git,github,idea,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,java,postgres,jquery,git,github,idea,vscode)](https://skillicons.dev)
   ##
  
 <div>
